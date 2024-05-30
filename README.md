@@ -2,11 +2,11 @@
 <h4 align="center">A passionate full-stack developer who studied Software Engineering in Ukraine and now lives in Turkey</h4>
 
 
-- 🔭 I’m currently working on [MyOwnPortfolio](https://canyavuzdb.vercel.app/)
+- 🔭 I’m currently working on (actually I was working on it until Turkey blocked Vercel) [MyOwnPortfolio](https://canyavuzdb.vercel.app/)
 
-- 🌱 I am currently learning **deep knowledge** about React and Node
+- 🌱 The only thing I do now is take care of hobby projects because I didn't know it would be so hard to find a job!!!
 
-- 📫 How to reach me **mcanyvz1996@gmail.com**
+- 📫 How to reach me **mcanyvz1996@gmail.com** (Nonsense! It's as if someone's going to contact me!!!)
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
